@@ -1,3 +1,7 @@
 git init
 git add
-git commit
+git commit -m
+git status
+git restore
+git branch
+
